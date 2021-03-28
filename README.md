@@ -1,2 +1,2 @@
-# JS
+# JS 🖥 👨🏻‍💻
 Javascript projects
